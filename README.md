@@ -1,1 +1,3 @@
 # Engenharia_de_Dados_IBM_Skills_Network
+Para obtenção de insights sobre saúde à FarmaZond, foi realizado um processo ETL da fonte 'cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud'. Posterior a captura, foi realizado um tratamento dos dados visando uma padronização e limpeza deles, depois carregamento a arquivo do formato csv.
+Vale ressaltar, que a fonte gera 9 arquivos, sendo 3 em formato csv, 3 em formato json e 3 em formato xml. Além disso, para organização dos arquivos coletados, o script solicita uma entrada ao usuário, essa entrada está relacionda ao local onde será armazenado o diretório.
